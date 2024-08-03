@@ -17,6 +17,7 @@ Simple to use and 100% free
      ```
      start loadingscreen
      ```
+3.For music add an file named music.mp3 inside the scipts folder or you can rename the file to whatever you want in index.html
 
 ## Customization
 
