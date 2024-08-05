@@ -3,7 +3,7 @@
 Simple to use and 100% free
 
 ## UPDATE
--new version is up here is the link: https://github.com/TalosTheMinoan/LoadingScreen/releases/tag/new
+-new version: https://github.com/TalosTheMinoan/LoadingScreen/releases/tag/new
 
 ## Features
 
